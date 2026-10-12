@@ -20,7 +20,7 @@ Marketing Analytics case study analyzing five Google Ads campaigns for an e-comm
 
 ## Key Findings
 
-- **Best ROAS:** Display – Awareness (6.0) — strongest revenue per euro spent  
+- **Best ROAS:** Display – Awareness (6.0) - strongest revenue per euro spent  
 - **Best Conversion Rate:** Shopping – Accessories (5.0%)  
 - **Highest CTR:** Search – Electronics (3.0%)  
 - **Below target ROAS (3.0):** Search – Apparel (2.8) and Video – Engagement (1.0)  
