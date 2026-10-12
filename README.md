@@ -4,8 +4,8 @@ Marketing Analytics case study analyzing five Google Ads campaigns for an e-comm
 
 ## Download
 
-- **[Case Study PDF (Google Drive)](https://drive.google.com/file/d/11WwN-2Vb9wtNAn-UYVoiXsZbtRDvfp-z/view?usp=sharing)** — full write-up with findings and recommendations  
-- **[Campaign data (CSV)](data/campaign_performance.csv)** — raw metrics used in the analysis
+- **[Case Study PDF (Google Drive)](https://drive.google.com/file/d/11WwN-2Vb9wtNAn-UYVoiXsZbtRDvfp-z/view?usp=sharing)**  full write-up with findings and recommendations  
+- **[Campaign data (CSV)](data/campaign_performance.csv)**  raw metrics used in the analysis
 
 ## Campaign Snapshot
 
@@ -48,7 +48,6 @@ Marketing Analytics case study analyzing five Google Ads campaigns for an e-comm
 - Optimization recommendations and A/B testing mindset
 - Data storytelling for marketing decisions
 
-## Portfolio Description (for CV)
 
 **Google Ads Campaign Performance Analysis | Marketing Analytics**  
 Analyzed five Google Ads campaigns using CTR, CPC, Conversion Rate and ROAS. Identified underperforming campaigns, proposed budget reallocation and a 3-month optimization plan aimed at increasing conversions by ~15% at constant spend.
